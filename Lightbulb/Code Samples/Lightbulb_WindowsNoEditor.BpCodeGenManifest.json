@@ -1,0 +1,57 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/Sam/Documents/Unreal Projects/Lightbulb/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/PhysicsCore'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/Landscape'",
+		"Package'/Script/StaticMeshDescription'",
+		"Package'/Script/MeshDescription'",
+		"Package'/Script/UMG'",
+		"Package'/Script/AudioExtensions'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/GameplayTags'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/PropertyAccess'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/Slate'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Blueprints/Coil_blueprint.Coil_blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Coil_blueprint.Coil_blueprint_C",
+			"generatedHeaderPath": "C:/Users/Sam/Documents/Unreal Projects/Lightbulb/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Coil_blueprint__pf2132744816.h",
+			"generatedCppPath": "C:/Users/Sam/Documents/Unreal Projects/Lightbulb/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Coil_blueprint__pf2132744816.cpp"
+		},
+		"/Game/Blueprints/Bulb_light_blueprint.Bulb_light_Blueprint_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/Bulb_light_blueprint.Bulb_light_Blueprint_C",
+			"generatedHeaderPath": "C:/Users/Sam/Documents/Unreal Projects/Lightbulb/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Bulb_light_blueprint__pf2132744816.h",
+			"generatedCppPath": "C:/Users/Sam/Documents/Unreal Projects/Lightbulb/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Bulb_light_blueprint__pf2132744816.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
