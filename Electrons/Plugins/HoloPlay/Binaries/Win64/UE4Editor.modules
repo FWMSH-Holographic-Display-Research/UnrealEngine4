@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"HoloPlayEditor": "UE4Editor-HoloPlayEditor.dll",
+		"HoloPlayRuntime": "UE4Editor-HoloPlayRuntime.dll"
+	}
+}
