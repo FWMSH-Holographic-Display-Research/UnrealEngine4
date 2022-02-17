@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\user\\OneDrive - Fort Worth Museum of Science and History\\Documents\\UnrealEngine4\\Electrons\\Plugins\\HoloPlay\\Source\\HoloPlayEditor\\HoloPlayEditor.Build.cs",
+		"C:\\Users\\user\\OneDrive - Fort Worth Museum of Science and History\\Documents\\UnrealEngine4\\Electrons\\Plugins\\HoloPlay\\Source\\HoloPlayRuntime\\HoloPlayRuntime.Build.cs",
+		"C:\\Users\\user\\OneDrive - Fort Worth Museum of Science and History\\Documents\\UnrealEngine4\\Electrons\\Intermediate\\Source\\Electrons.Build.cs",
+		"C:\\Users\\user\\OneDrive - Fort Worth Museum of Science and History\\Documents\\UnrealEngine4\\Electrons\\Intermediate\\Source\\Electrons.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

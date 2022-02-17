@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOLOPLAYRUNTIME_HoloPlaySettings_generated_h
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_512_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_512_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayRenderingSettings_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayRenderingSettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_465_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_465_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayDebugMenuSettings_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -29,7 +29,7 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayRende
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayDebugMenuSettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_426_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_426_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayScreenshotSettings_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -37,7 +37,7 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayDebug
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayScreenshotSettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_411_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_411_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlaySceneSettings_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -45,7 +45,7 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayScree
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlaySceneSettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_291_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_291_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayShaderSettings_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -53,7 +53,7 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayScene
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayShaderSettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_243_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_243_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayWindowSettings_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -61,7 +61,7 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayShade
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayWindowSettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_207_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_207_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayConfigValues_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -69,7 +69,7 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayWindo
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayConfigValues>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_126_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_126_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlayTilingQuality_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct(); \
 	typedef FHoloPlaySettingsBase Super;
@@ -77,17 +77,17 @@ template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayConfi
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlayTilingQuality>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_95_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_95_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FHoloPlaySettingsBase_Statics; \
 	HOLOPLAYRUNTIME_API static class UScriptStruct* StaticStruct();
 
 
 template<> HOLOPLAYRUNTIME_API UScriptStruct* StaticStruct<struct FHoloPlaySettingsBase>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_SPARSE_DATA
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS_NO_PURE_DECLS
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS_NO_PURE_DECLS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_SPARSE_DATA
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS_NO_PURE_DECLS
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUHoloPlaySettings(); \
 	friend struct Z_Construct_UClass_UHoloPlaySettings_Statics; \
@@ -98,7 +98,7 @@ public: \
 
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS \
 private: \
 	static void StaticRegisterNativesUHoloPlaySettings(); \
 	friend struct Z_Construct_UClass_UHoloPlaySettings_Statics; \
@@ -109,7 +109,7 @@ public: \
 
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_STANDARD_CONSTRUCTORS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UHoloPlaySettings(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHoloPlaySettings) \
@@ -122,7 +122,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_ENHANCED_CONSTRUCTORS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UHoloPlaySettings(UHoloPlaySettings&&); \
@@ -133,38 +133,38 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UHoloPlaySettings)
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_547_PROLOG
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_GENERATED_BODY_LEGACY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_PRIVATE_PROPERTY_OFFSET
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_547_PROLOG
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_SPARSE_DATA \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_STANDARD_CONSTRUCTORS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_PRIVATE_PROPERTY_OFFSET \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_SPARSE_DATA \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_SPARSE_DATA \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_ENHANCED_CONSTRUCTORS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_PRIVATE_PROPERTY_OFFSET \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_SPARSE_DATA \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_RPC_WRAPPERS_NO_PURE_DECLS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_INCLASS_NO_PURE_DECLS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_558_ENHANCED_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 template<> HOLOPLAYRUNTIME_API UClass* StaticClass<class UHoloPlaySettings>();
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_SPARSE_DATA
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS_NO_PURE_DECLS
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS_NO_PURE_DECLS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_SPARSE_DATA
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS_NO_PURE_DECLS
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUHoloPlayLaunchSettings(); \
 	friend struct Z_Construct_UClass_UHoloPlayLaunchSettings_Statics; \
@@ -175,7 +175,7 @@ public: \
 
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS \
 private: \
 	static void StaticRegisterNativesUHoloPlayLaunchSettings(); \
 	friend struct Z_Construct_UClass_UHoloPlayLaunchSettings_Statics; \
@@ -186,7 +186,7 @@ public: \
 
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_STANDARD_CONSTRUCTORS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UHoloPlayLaunchSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHoloPlayLaunchSettings) \
@@ -199,7 +199,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_ENHANCED_CONSTRUCTORS \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UHoloPlayLaunchSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -212,28 +212,28 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHoloPlayLaunchSettings)
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_670_PROLOG
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_GENERATED_BODY_LEGACY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_PRIVATE_PROPERTY_OFFSET
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_670_PROLOG
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_SPARSE_DATA \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_STANDARD_CONSTRUCTORS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_PRIVATE_PROPERTY_OFFSET \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_SPARSE_DATA \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_GENERATED_BODY \
+#define Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_SPARSE_DATA \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_ENHANCED_CONSTRUCTORS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_PRIVATE_PROPERTY_OFFSET \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_SPARSE_DATA \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_RPC_WRAPPERS_NO_PURE_DECLS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_INCLASS_NO_PURE_DECLS \
+	Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h_674_ENHANCED_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -241,7 +241,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> HOLOPLAYRUNTIME_API UClass* StaticClass<class UHoloPlayLaunchSettings>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h
+#define CURRENT_FILE_ID Electrons_Plugins_HoloPlay_Source_HoloPlayRuntime_Public_HoloPlaySettings_h
 
 
 #define FOREACH_ENUM_EHOLOPLAYQUALITYSETTINGS(op) \
