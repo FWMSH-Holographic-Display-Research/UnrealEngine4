@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HoloPlayRuntime.cpp.obj": [
+			"HoloPlayLibrary.cpp.obj",
+			"HoloPlayCameraComponent.cpp.obj",
+			"HoloPlayCapture.cpp.obj",
+			"HoloPlayDrawFrustumComponent.cpp.obj",
+			"HoloPlaySceneCaptureComponent2D.cpp.obj",
+			"HoloPlayRuntime.cpp.obj",
+			"HoloPlaySettings.cpp.obj",
+			"HoloPlayCommandLineManager.cpp.obj",
+			"HoloPlayDisplayManager.cpp.obj",
+			"HoloPlayLaunchManager.cpp.obj",
+			"HoloPlayScalabilityManager.cpp.obj",
+			"HoloPlayHelpers.cpp.obj",
+			"HoloPlayLog.cpp.obj",
+			"HoloPlayStats.cpp.obj",
+			"HoloPlayLenticularShader.cpp.obj",
+			"HoloPlayRendering.cpp.obj",
+			"HoloPlaySceneCaptureRendering.cpp.obj",
+			"HoloPlayViewportClient.cpp.obj",
+			"SHoloPlayViewport.cpp.obj"
+		],
+		"Module.HoloPlayRuntime.gen.cpp.obj": [
+			"HoloPlayCameraComponent.gen.cpp.obj",
+			"HoloPlayCapture.gen.cpp.obj",
+			"HoloPlayDrawFrustumComponent.gen.cpp.obj",
+			"HoloPlayLibrary.gen.cpp.obj",
+			"HoloPlayRuntime.init.gen.cpp.obj",
+			"HoloPlaySceneCaptureComponent2D.gen.cpp.obj",
+			"HoloPlaySettings.gen.cpp.obj"
+		]
+	}
+}
