@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.HoloPlayRuntime.cpp.obj",
+		"Module.HoloPlayRuntime.gen.cpp.obj"
+	]
+}
